@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:31.366439
+#+DATE: 2015-08-30 20:44:32.532643
 #+TITLE: 佛說舍利弗悔過經
 #+PROPERTY: CBETA_ID T24n1492
 #+PROPERTY: ID KR6k0114
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1492
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0114_T_001-1090a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1492¶
-
- 《佛說舍利弗悔過經》¶
+No. 1492¶
+《佛說舍利弗悔過經》¶
 ¶
 後漢安息國三藏安世高譯¶
 
@@ -42,8 +41,8 @@ No.1492¶
 喜。身不信作善得善作惡得惡。見人作惡
 <pb:KR6k0114_T_001-1090b>¶
 代其喜。身自盜佛寺中神物若比丘僧財物。¶
-教人行盜。見人行盜代其喜。身自輕稱小㪷¶
-短尺欺人。以重稱大㪷長尺侵人。見人侵人¶
+教人行盜。見人行盜代其喜。身自輕稱小[豆*斗]¶
+短尺欺人。以重稱大[豆*斗]長尺侵人。見人侵人¶
 代其喜。身自故賊教人故賊。見人故賊代其¶
 喜。身自惡逆教人惡逆。見人惡逆代其喜。¶
 身諸所更以來生五處者。在泥犁中時。在¶
